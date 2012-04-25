@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparkleshare>
+  <plugin>
+    <info>
+      <_name>web wack creations</_name>
+      <_description>http://git.web-wack.at</_description>
+      <icon>w2c.png</icon>
+      <backend>Git</backend>
+      <announcements_url>tcp://git.web-wack.at:1986</announcements_url>
+    </info>
+    <address>
+      <value></value>
+      <example>http://user:pass@git.web-wack.at/</example>
+    </address>
+    <path>
+      <value></value>
+      <_example>/git/project</_example>
+    </path>
+  </plugin>
+</sparkleshare>
